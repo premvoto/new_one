@@ -1,4 +1,4 @@
-# user details
+# # user details
 name = input("Enter your name: ")
 age = int(input("Enter your age: "))
 location = input("Enter your location: ")
@@ -15,4 +15,3 @@ print(f"Location: {location}")
 print(f"Address: {address}")
 print(f"Monthly Salary: ${salary:.2f}")
 print(f"Total Annual Salary: ${annual_salary:.2f}")
-
